@@ -8,6 +8,9 @@
     
 //Sample Output :
     sowmiya
+
+CODE:
+    
 n=int(input())
 
 batsman={}
