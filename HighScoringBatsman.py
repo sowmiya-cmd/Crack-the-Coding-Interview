@@ -1,3 +1,13 @@
+//To print the High Scoring batsman name 
+
+//Sample input:
+    sowmiya,90
+    hariharan,56
+    giridharan,78
+    gokul,34
+    
+//Sample Output :
+    sowmiya
 n=int(input())
 
 batsman={}
